@@ -22,14 +22,6 @@ website: www.jaswantpakki.com
 website_full: https://jekyller.github.io/sustain
 github: jpakki
 twitter: jaswantpakki
-tel: 4802948349
-tel_full: tel:+14802948349
-#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address:
-  street: 5333 W. Elgin St.
-  postcode: 85226
-  city: Chandler
-  country: United States
 #google_analytics: UA-69300817-1
 
 # needed for travis-ci build
